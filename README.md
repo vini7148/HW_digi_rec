@@ -10,14 +10,10 @@ Follow these steps to deploy a copy of this web application on your system
 
 You will need the following tools to deploy this application
 
-An environment for running .ipynb files is required along with the following python libraries
+Python along with an environment for running .ipynb files is required along with the following python libraries
 ```
-pandas
-matplotlib
-seaborn
-sklearn
-tensorflow-gpu
-tensorflow.keras
+tensorflow
+keras
 ```
 
 
