@@ -34,6 +34,10 @@ After acquiring all the required pyhton libraries and an envitronment for execut
 
 This model is deployed using the python's built-in library Tkinter
 
+## ScreenShot
+
+![Recognizer](https://github.com/vini7148/HW_digi_rec/blob/master/ss/1.png)
+
 ## Viewing the Application
 
 Just open 'App.bat', it should automatically create a new windows for the GUI
