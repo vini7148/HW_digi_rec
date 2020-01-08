@@ -36,7 +36,13 @@ This model is deployed using the python's built-in library Tkinter
 
 ## ScreenShot
 
-![Recognizer](https://github.com/vini7148/HW_digi_rec/blob/master/ss/1.png)
+![Recognizer_1](https://github.com/vini7148/HW_digi_rec/blob/master/ss/1.png)
+
+
+![Recognizer_2](https://github.com/vini7148/HW_digi_rec/blob/master/ss/2.png)
+
+
+![Recognizer_3](https://github.com/vini7148/HW_digi_rec/blob/master/ss/3.png)
 
 ## Viewing the Application
 
