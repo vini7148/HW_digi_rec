@@ -46,7 +46,7 @@ This model is deployed using the python's built-in library Tkinter
 
 ## Viewing the Application
 
-Just open 'App.bat', it should automatically create a new windows for the GUI
+Just open 'launch.vbs', it should automatically create a new windows for the GUI
 
 ## Description of the keras.sequential model
 
