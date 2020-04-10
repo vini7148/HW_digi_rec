@@ -8,6 +8,10 @@ import numpy as np
 
 model = load_model('mnist.h5')
 
+# alternate model
+
+# model = load_model('mnist_2.h5')
+
 
 def predict_digit(img):
     #resize image to 28x28 pixels
@@ -56,7 +60,7 @@ class App(tk.Tk):
     def draw_lines(self, event):
         self.x = event.x
         self.y = event.y
-        r = 5
+        r = 8
         self.canvas.create_oval(self.x-r, self.y-r, self.x + r, self.y + r, fill='black')
 
 
