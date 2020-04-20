@@ -46,6 +46,8 @@ This model is deployed using the python's built-in library Tkinter
 
 ## Viewing the Application
 
+Dowload the release version from [DOWNLOAD](https://github.com/vini7148/HW_digi_rec/archive/1.0.zip), and then unzip the file.
+
 Just open 'launch.vbs', it should automatically create a new windows for the GUI
 
 ## Description of the keras.sequential model
